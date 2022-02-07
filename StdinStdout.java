@@ -1,0 +1,24 @@
+/*Enunciado
+Tarefa:
+Neste desafio, você deve ler inteiros de stdin e, em seguida, imprima-os em
+stdout. Cada inteiro deve ser impresso em uma nova linha. 
+*/
+import java.util.*;
+
+public class StdinStdout {
+
+	    public static void main(String[] args) {
+	        Scanner scan = new Scanner(System.in);
+	        int a = scan.nextInt();
+	        int b = scan.nextInt();
+	        int c = scan.nextInt();
+	        // Complete this line
+	        // Complete this line
+
+	        System.out.println(a);
+	        System.out.println(b);
+	        System.out.println(c);
+	        // Complete this line
+	        // Complete this line
+	    }
+	}
